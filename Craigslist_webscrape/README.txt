@@ -1,0 +1,1 @@
+Craigslist webscraping bot that grabs items by search which includes their title, description, price and direct hyperlink to the posting. All data is saved to a csv file to be interpreted by the user.
